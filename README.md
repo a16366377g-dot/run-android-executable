@@ -10,6 +10,8 @@ For this, we source the executables from Termux and combine all of them into one
 
 Open Termux if already installed, otherwise get it from [F-Droid - Termux](https://f-droid.org/repo/com.termux_1020.apk).
 
+    yes | pkg up; pkg i -y git
+
 To build your own flavor -
 
     git clone --depth 1 https://github.com/HunterXProgrammer/run-android-executable ~/run-android-executable; git -C ~/run-android-executable pull
