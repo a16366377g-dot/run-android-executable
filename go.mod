@@ -5,5 +5,7 @@ go 1.23.5
 
 require github.com/klauspost/compress v1.18.0
 
-replace github.com/klauspost/compress => ./compress
+
+replace githu9
+b.com/klauspost/compress => ./compress
 https://github.dev/github/dev
